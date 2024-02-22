@@ -1,0 +1,28 @@
+#topo {
+    clear: initial; 
+    text-align: center;
+    padding: 35px;
+    background-color: #ccc;
+    font-size: 30px;    
+}
+#rodape{
+    clear:both;
+    text-align: center;
+    padding: 15px;
+    background: #ccc;
+    font-size: 20px;
+}
+.cl{
+    padding: 40px 300px;
+}
+img{
+    width: 10px;
+    height: 400px;
+    padding: 0px 30px 30px 30px;
+}
+p{
+    font-size: 20px;
+    font-family: 'lucida sans', 'Lucida sans';
+    color: darkcyan;
+    text-align: ;
+}
